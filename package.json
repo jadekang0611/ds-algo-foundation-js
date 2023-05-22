@@ -1,0 +1,12 @@
+{
+  "name": "foundation",
+  "version": "1.0.0",
+  "description": "data structures and fundamental computer science topics",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jade K.",
+  "license": "ISC"
+}
